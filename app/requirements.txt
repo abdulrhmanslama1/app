@@ -1,8 +1,7 @@
-streamlit==1.26.0
-mediapipe==0.10.0
-numpy==1.23.5
-opencv-python==4.7.0.72
-sqlite3==2.6.0
-pandas==1.5.3
-plotly==5.13.0
-gtts==2.3.2
+streamlit==1.32.0
+mediapipe==0.10.21
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.1
+plotly==5.19.0
+gtts==2.4.0
